@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="qvl2mp4.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VideoConverterExePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\cc\videconverter\VideoConverter.exe</Value>
+    </Setting>
+    <Setting Name="VideoSourceDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\QLDownload\如懿传</Value>
+    </Setting>
+    <Setting Name="FFProbeExePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\PortableGit\mingw64\bin\ffprobe.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
