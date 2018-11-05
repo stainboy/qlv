@@ -20,7 +20,7 @@ namespace qvl2mp4
 
         private static void DoConvertProcess()
         {
-            var src = Directory.GetFiles(Settings.Default.VideoSourceDir, "*.qlv");
+            var src = Directory.GetFiles(Settings.Default.VideoSourceDir, "*.qlv", SearchOption.AllDirectories);
             foreach (var qvl in src)
             {
                 Console.WriteLine($"Processing {qvl}...");

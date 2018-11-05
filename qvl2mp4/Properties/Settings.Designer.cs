@@ -37,7 +37,7 @@ namespace qvl2mp4.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("D:\\QLDownload\\如懿传")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\QLDownload")]
         public string VideoSourceDir {
             get {
                 return ((string)(this["VideoSourceDir"]));

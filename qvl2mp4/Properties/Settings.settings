@@ -6,7 +6,7 @@
       <Value Profile="(Default)">D:\cc\videconverter\VideoConverter.exe</Value>
     </Setting>
     <Setting Name="VideoSourceDir" Type="System.String" Scope="User">
-      <Value Profile="(Default)">D:\QLDownload\如懿传</Value>
+      <Value Profile="(Default)">D:\QLDownload</Value>
     </Setting>
     <Setting Name="FFProbeExePath" Type="System.String" Scope="User">
       <Value Profile="(Default)">C:\PortableGit\mingw64\bin\ffprobe.exe</Value>
